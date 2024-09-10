@@ -145,7 +145,7 @@
       "understand": "Ich habe verstanden, dass ein falsches Wiederherstellungspasswort eine neue/andere Wallet erstellt."
     },
     "showMnemonic": {
-      "description": "Dir werden Wiederherstellungswörter angezeigt, die ein Backup deiner Wallet sind. Schreibe diese auf ein Stück Papier. \n\n<strong>Bewahre diese Wörter nicht digital auf und mache kein Foto von ihnen.</strong>\n\n<strong>Sprich die Wörter nicht laut aus.</strong>\n\n<strong>Dieses Backup ist nicht Passwort geschützt.</strong>\n\nNachdem du die Wörter aufgeschrieben hast wirst du gefragt werden sie nochmals zu bestätigen.\n",
+      "description": "Dir werden Wiederherstellungswörter angezeigt, die ein Backup deiner Wallet sind. Schreibe diese auf ein Stück Papier. \n\n<strong>Bewahre diese Wörter nicht digital auf und mache kein Foto von ihnen.</strong>\n\n<strong>Sprich die Wörter nicht laut aus.</strong>\n\n<strong>Dieses Backup ist nicht Passwort geschützt.</strong>\n\nNachdem du die Wörter aufgeschrieben hast, wirst du aufgefordert, diese zu bestätigen.\n",
       "title": "Recovery-Wörter anzeigen",
       "warning": "<strong>Teile deine Wiederherstellungswörter niemals mit irgendjemandem.</strong> Deine Wiederherstellungswörter ermöglichen vollen Zugriff zu deinem Wallet . Wenn dich jemand nach deinen Wiederherstellungswörtern fragt, handelt es sich um einen Betrüger. Gebe diese nicht weiter!"
     },
